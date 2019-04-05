@@ -4,7 +4,9 @@
 		"declaration": true,
 		"downlevelIteration": true,
 		"sourceMap": true,
-		"target": "es2015",
-		"rootDir": "./src"
+		"target": "es6",
+		"module": "es6",
+		"rootDir": "./src",
+		"outDir": "./dist/es"
 	}
 }
